@@ -1,7 +1,5 @@
 
-The current process of fetching the repository content is not supported directly. However, I can guide you on creating a README file. Here is a basic structure for the README file:
 
-```markdown
 # Post OCR Correction Using Glyph Embedding
 
 ## Overview
