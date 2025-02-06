@@ -39,6 +39,7 @@ Inspired by this groundbreaking research, I recently trained multiple models for
 🔹 Train Loss: 1.8702 | Val Loss: 0.5987  
 🔹 Train WER: 0.4040 | Val WER: 0.1762  
 🔹 Train CER: 0.2916 | Val CER: 0.0986  
+![image](https://github.com/user-attachments/assets/44667f16-a573-4c67-928f-2e7807088381)
 
 These results highlight the power of glyph embeddings in significantly improving OCR correction accuracy!  
 
