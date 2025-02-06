@@ -15,7 +15,7 @@ This project focuses on post Optical Character Recognition (OCR) correction usin
 I recently came across the groundbreaking book *"Enhancing OCR Performance through Post-OCR Models: Adopting Glyph Embedding for Improved Correction"* by Yung-Hsin Chen and Yuli Zhou, and I couldn’t wait to share its insights with you all!  
 
 This research dives deep into the limitations of traditional OCR (Optical Character Recognition) models and introduces a novel approach to overcome them. By leveraging **post-OCR correction models** and incorporating **glyph embedding techniques**, the authors demonstrate how visual characteristics of characters can be captured to significantly improve OCR accuracy.  
-![image](https://github.com/user-attachments/assets/5c35a429-be78-48a8-8cb7-ab8d978faaa2)
+![image](https://github.com/user-attachments/assets/68e4c2a3-1174-45b7-a1a1-78c579e18639)
 
 
 Here’s what makes this work stand out:  
